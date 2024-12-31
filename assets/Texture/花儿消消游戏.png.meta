@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "730c826a-dd50-4a98-8a48-7a012184fcc0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 477,
+  "height": 345,
+  "platformSettings": {},
+  "subMetas": {
+    "花儿消消游戏": {
+      "ver": "1.0.4",
+      "uuid": "27013499-294e-46f4-ac28-a8a99f89c99e",
+      "rawTextureUuid": "730c826a-dd50-4a98-8a48-7a012184fcc0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 5,
+      "trimX": 4,
+      "trimY": 28,
+      "width": 470,
+      "height": 279,
+      "rawWidth": 477,
+      "rawHeight": 345,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
